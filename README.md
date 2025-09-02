@@ -23,4 +23,4 @@ Paperless HQ is a modern platform that helps teams and individuals manage, sign,
 
 ---
 
-![Application Work Flow](./readme/application-work-flow.png)  
+![Application Work Flow](./public/readme/application-work-flow.png)  
